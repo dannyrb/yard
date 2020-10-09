@@ -1,0 +1,6 @@
+{
+    :load_plugins => false,   # Whether to load plugins automatically with YARD
+    :ignored_plugins => [],   # A list of ignored plugins by name
+    :autoload_plugins => [],  # A list of plugins to be automatically loaded
+    :safe_mode => false       # Does not execute or eval any user-level code
+}
